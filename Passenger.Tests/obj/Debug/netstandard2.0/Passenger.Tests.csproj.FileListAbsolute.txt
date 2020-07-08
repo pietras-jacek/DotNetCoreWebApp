@@ -1,0 +1,14 @@
+C:\Users\Dom\Desktop\Projects\Passengers\Passenger.Tests\bin\Debug\netstandard2.0\Passenger.Tests.deps.json
+C:\Users\Dom\Desktop\Projects\Passengers\Passenger.Tests\bin\Debug\netstandard2.0\Passenger.Tests.dll
+C:\Users\Dom\Desktop\Projects\Passengers\Passenger.Tests\bin\Debug\netstandard2.0\Passenger.Tests.pdb
+C:\Users\Dom\Desktop\Projects\Passengers\Passenger.Tests\bin\Debug\netstandard2.0\Passenger.Core.dll
+C:\Users\Dom\Desktop\Projects\Passengers\Passenger.Tests\bin\Debug\netstandard2.0\Passenger.Infrastructure.dll
+C:\Users\Dom\Desktop\Projects\Passengers\Passenger.Tests\bin\Debug\netstandard2.0\Passenger.Infrastructure.pdb
+C:\Users\Dom\Desktop\Projects\Passengers\Passenger.Tests\bin\Debug\netstandard2.0\Passenger.Core.pdb
+C:\Users\Dom\Desktop\Projects\Passengers\Passenger.Tests\obj\Debug\netstandard2.0\Passenger.Tests.csprojAssemblyReference.cache
+C:\Users\Dom\Desktop\Projects\Passengers\Passenger.Tests\obj\Debug\netstandard2.0\Passenger.Tests.AssemblyInfoInputs.cache
+C:\Users\Dom\Desktop\Projects\Passengers\Passenger.Tests\obj\Debug\netstandard2.0\Passenger.Tests.AssemblyInfo.cs
+C:\Users\Dom\Desktop\Projects\Passengers\Passenger.Tests\obj\Debug\netstandard2.0\Passenger.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Dom\Desktop\Projects\Passengers\Passenger.Tests\obj\Debug\netstandard2.0\Passenger.Tests.csproj.CopyComplete
+C:\Users\Dom\Desktop\Projects\Passengers\Passenger.Tests\obj\Debug\netstandard2.0\Passenger.Tests.dll
+C:\Users\Dom\Desktop\Projects\Passengers\Passenger.Tests\obj\Debug\netstandard2.0\Passenger.Tests.pdb

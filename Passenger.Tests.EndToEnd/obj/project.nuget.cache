@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Nw+ptPDDkRyNfCtfgwp+XeB6WeHIhPX2Rmuv3V3ZXuxxQJc8Std1Xo4KTFdhaZABi5/N5CgWES/edXXbXdk7rA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dom\\Desktop\\Projects\\Passengers\\Passenger.Tests.EndToEnd\\Passenger.Tests.EndToEnd.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
