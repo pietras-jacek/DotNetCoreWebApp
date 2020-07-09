@@ -1,9 +1,11 @@
+using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
+using Passenger.Infrastructure.Commands.Users;
 using Passenger.Infrastructure.DTO;
 using Passenger.Infrastructure.Services;
 
 namespace Passenger.Api.Controllers
-{   
+{
     [Controller]
     [Route("users")]
     public class UserController : Controller
@@ -15,20 +17,11 @@ namespace Passenger.Api.Controllers
         }
 
         [HttpGet("{email}")]
-        public UserDto Get(string email) => _userService.Get(email);
+        public async Task<UserDto> GetAsync(string email) =>
+            await _userService.GetAsync(email);
 
-
-
-        [HttpPut("{id}")]
-        public void Put(int id, [FromBody] string value)
-        {
-
-        }
-
-        [HttpDelete("{id}")]
-        public void Delete(int id)
-        {
-
-        }
+        [HttpPost("")]
+        public async Task Post([FromBody] CreateUser request) =>
+            await _userService.RegisterAsync(request.Email, request.UserName, request.Password);
     }
 }
