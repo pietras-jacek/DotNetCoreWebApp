@@ -10,9 +10,9 @@ namespace Passenger.Infrastructure.Repositories
     {
         private static ISet<User> _users = new HashSet<User>
         {
-            new User("user1@test.pl", "user1", "secret", "salt"),
-            new User("user2@test.pl", "user2", "secret", "salt"),
-            new User("user3@test.pl", "user3", "secret", "salt")
+            new User("user1@test.pl", "user1", "user", "salt", "salt"),
+            new User("user2@test.pl", "user2", "user", "salt", "salt"),
+            new User("user3@test.pl", "user3", "user", "salt", "salt")
         };
 
         public void Add(User user)

@@ -1,11 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "MqGHtma0kQ3Y4YkVxUzOEV1qosHyi7kKT1/jr0JeJu2TM6VfMW042TtDnGTU5cEmxjjQgWHlE40tS1OF7W+4bA==",
+  "dgSpecHash": "Keh9cMeEKXJXhU0vEW9WZsWCuws6NACMxUAyqRQsveI4sqWD/Fw4c0EG+YPodECwjuac8AyUvTw4EfMsk3v14g==",
   "success": true,
   "projectFilePath": "C:\\Users\\Dom\\Desktop\\Projects\\Passengers\\Passenger.Infrastructure\\Passenger.Infrastructure.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Dom\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
+    "C:\\Users\\Dom\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Dom\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
+    "C:\\Users\\Dom\\.nuget\\packages\\system.reflection.emit.ilgeneration\\4.7.0\\system.reflection.emit.ilgeneration.4.7.0.nupkg.sha512"
   ],
   "logs": []
 }
